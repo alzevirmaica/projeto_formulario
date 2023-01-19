@@ -174,7 +174,7 @@ h3 {
 }
 
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 400px) {
     input[type="text"],
     input[type="number"],
     input[type="date"],

@@ -158,7 +158,7 @@ h3 {
     color: rgb(26, 45, 73);
 }
 
-@media screen and (min-width: 600px) {
+@media screen and (max-width: 600px) {
     input[type="text"],
     input[type="number"],
     input[type="date"],
@@ -174,7 +174,7 @@ h3 {
 }
 
 
-@media screen and (min-width: 300px) {
+@media screen and (max-width: 300px) {
     input[type="text"],
     input[type="number"],
     input[type="date"],
